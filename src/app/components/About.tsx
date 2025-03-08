@@ -18,7 +18,7 @@ const About = () => {
             <AiOutlineGithub className="text-muted-foreground hover:text-primary h-6 w-6" />
           </Link>
           <Link
-            href="https://twitter.com/kartik2jan"
+            href="https://x.com/kartik2jan"
             target="_black"
             className="rounded-lg text-4xl transition-all duration-200"
           >
@@ -55,10 +55,11 @@ const About = () => {
         </p>
       </div>
       <div className="hidden md:block">
-        {/* <img
+        <img
           className="h-[200px] w-[200px] object-cover rounded-full"
           alt=""
-        /> */}
+          src="/pfp.jpg"
+        />
       </div>
     </section>
   );

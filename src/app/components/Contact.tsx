@@ -17,7 +17,7 @@ const Contact = () => {
           <AiOutlineGithub className="text-muted-foreground hover:text-primary" />
         </Link>
         <Link
-          href="https://twitter.com/kartik2jan"
+          href="https://x.com/kartik2jan"
           target="_black"
           className="rounded-lg p-2 mx-2 text-4xl transition-all duration-200"
         >

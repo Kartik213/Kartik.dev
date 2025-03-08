@@ -19,6 +19,16 @@ const PROJECTS: ProjectsType[] = [
       "Enabled anonymous messaging through unique shareable links, with features for viewing and deleting messages.",
     github: "https://github.com/Kartik213/trueFeedback",
     techStack: ["ReactJs", "ExpressJs", "TailwindCSS", "Mongoose", "MongoDB"],
+    demo: "https://true-feedback-kartik.vercel.app/"
+  },
+  {
+    img: "/Codeoverflow.png",
+    title: "Code Overflow",
+    description:
+      "Built a full-stack Stack Overflow clone with a responsive UI, tagging for questions, and a reputation system.",
+    github: "https://github.com/Kartik213/stack-overflow-nextjs",
+    techStack: ["NextJs", "Typescript", "TailwindCSS", "Shadcn", "MongoDB"],
+    demo: "https://code-overflow-kartik.vercel.app/"
   },
   {
     img: "/DivideExpert.png",

@@ -26,7 +26,7 @@ export default function Home() {
       </div>
       <footer className="border-t border-[#1d283a] px-0 xl:px-72 lg:px-48 sm:px-8 md:px-24 py-4 text-center flex sm:flex-row flex-col gap-4 justify-between items-center">
         <Link
-          href="https://github.com/Kartik213"
+          href="https://github.com/Kartik213/Kartik.dev"
           target="_black"
           className="rounded-lg p-2 mx-2 text-4xl transition-all duration-200"
         >
